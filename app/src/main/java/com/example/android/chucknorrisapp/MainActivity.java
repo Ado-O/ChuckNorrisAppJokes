@@ -61,10 +61,9 @@ public class MainActivity extends AppCompatActivity {
                     textView2.setText(repos.getValue());
 
                 }
-                //ovaj dio koda ne radi neki cudom
                 @Override
                 public void onFailure(Call<GitHubRepo> call, Throwable t) {
-                    Toast.makeText(MainActivity.this, "Choose category :)", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(MainActivity.this, "No connection", Toast.LENGTH_SHORT).show();
                 }
             });
         }
