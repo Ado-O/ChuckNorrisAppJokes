@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ChuckNorrisApp</string>
+    <string name="uvod">Choose a category and enjoy Chuck Norris jokes</string>
+
+    <string-array name="spinnerCategory">
+        <item>Choose a category</item>
+        <item>explicit</item>
+        <item>dev</item>
+        <item>food</item>
+        <item>celebrity</item>
+        <item>science</item>
+        <item>political</item>
+        <item>sport</item>
+        <item>religion</item>
+        <item>animal</item>
+        <item>music</item>
+        <item>history</item>
+        <item>travel</item>
+        <item>career</item>
+        <item>money</item>
+        <item>fashion</item>
+    </string-array>
+</resources>

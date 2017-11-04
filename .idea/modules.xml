@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:\Users\User\Desktop\ChuckNorrisJokes-master\ChuckNorrisApp.iml" filepath="C:\Users\User\Desktop\ChuckNorrisJokes-master\ChuckNorrisApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChuckNorrisJokes-master.iml" filepath="$PROJECT_DIR$/ChuckNorrisJokes-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
